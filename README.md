@@ -7,6 +7,6 @@ Rockburst intensity database see supplementary data.csv
 
 tree#1-12.pdf is the structure of Op-RF
 
-If it's useful to your work, please cite this article as: Y. Shen, S. Wu, Y. Wang, J. Wang, Z. Yang, Interpretable model for rockburstintensity prediction based on Shapley values-based Optuna-random forest, Underground Space (2024), doi:https://doi.org/10.1016/j.undsp.2024.09.002.
+If it's useful to your work, please cite this article as: Y. Shen, S. Wu, Y. Wang, J. Wang, Z. Yang, Interpretable model for rockburstintensity prediction based on Shapley values-based Optuna-random forest, Underground Space (2024), doi:https://doi.org/10.1016/j.undsp.2024.09.002
 
 Thanks :)
